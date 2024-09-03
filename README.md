@@ -48,7 +48,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhoshkumars13&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/xT0GqF4mR20GkTlofg/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VkbXlvMGg0eWNxc2w3ZDR4ZmUxaHM3ZjBoY3plaml1azg5bXYxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif )" width="400" alt="Data Science Animation">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VkbXlvMGg0eWNxc2w3ZDR4ZmUxaHM3ZjBoY3plaml1azg5bXYxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/200.webp" width="400" alt="Data Science Animation">
 </p>
 
 ---
