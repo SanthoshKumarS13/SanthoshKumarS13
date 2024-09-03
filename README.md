@@ -7,12 +7,12 @@
 
 - 🔭 **First Capstone project:** [Redbus Project](https://github.com/SanthoshKumarS13/Rebbus-Project-1)
 
-- 🌱 **Personal Projects:** Heart Disease Prediction, Student Performance EDA, Online Shoppers Classification and Clustering, Wine Quality, Movie Dataset Cleaning
-
 - 👯 **Second Capstone project:** [EDA of Global Electronics Data](https://github.com/SanthoshKumarS13/EDA_of_Global_Electronics_Data---Project-2)
 
 - 🤝 **Third Capstone Project:** [CarDekho Car Price Prediction](https://github.com/SanthoshKumarS13/Car_Deheko---Vehicle-price-Prediction_-Regression_Algorithm-----Project-3)
 
+- 🌱 **Personal Projects:** Heart Disease Prediction, Student Performance EDA, Online Shoppers Classification and Clustering, Wine Quality, Movie Dataset Cleaning
+  
 - 📫 **How to reach me:** **santhoshkumareee2000@gmail.com**
 
 - 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1ZtI96xwpOg2Dpjwwk7Sp65IVTvC8hPzb/view?usp=drive_link)
@@ -48,7 +48,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhoshkumars13&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0GqF4mR20GkTlofg/giphy.gif" width="400" alt="Data Science Animation">
+  <img src="[https://media.giphy.com/media/xT0GqF4mR20GkTlofg/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VkbXlvMGg0eWNxc2w3ZDR4ZmUxaHM3ZjBoY3plaml1azg5bXYxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif )" width="400" alt="Data Science Animation">
 </p>
 
 ---
