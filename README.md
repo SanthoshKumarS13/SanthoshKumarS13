@@ -19,7 +19,7 @@
 
 - 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1ZtI96xwpOg2Dpjwwk7Sp65IVTvC8hPzb/view?usp=drive_link)
 
-- ⚡ **Fun fact:** I have 2 years of experience in the electrical domain
+- ⚡ **UnKnown fact:** I have 2 years of experience in the electrical domain
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
