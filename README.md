@@ -32,10 +32,12 @@
 
 <h3 align="left">Skills:</h3>
 <ul>
-  <li>Data Analysis & Visualization: Data Cleaning & Preprocessing, EDA, Data Visualization(Power BI)</li>
+  <li>Machine Learning & Modeling: Model Development, Model Evaluation & Optimization,Classification & Clustering Algorithms,NLP, Deep Learning</li>
   <li>Programming & Database Management: Python Programming, SQL, Web Scraping (Selenium, Python)</li>
-  <li>Machine Learning & Modeling: Model Development, Price Prediction, Model Evaluation & Optimization, Classification & Clustering Algorithms</li>
-  <li>Tools & Frameworks: Streamlit, MySQL, Pandas, Seaborn, Matplotlib</li>
+  <li>Data Analysis & Visualization : Data Cleaning & Preprocessing,EDA(Hypothesis Testing),Data
+ Visualization (Power BI), Seaborn,Matplotlib</li>
+  <li>Tools & Frameworks: Streamlit, MySQL, Pandas,Scikit-learn,LLM
+ Hugging Face,Aws</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
