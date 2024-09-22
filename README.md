@@ -15,7 +15,7 @@
 
 - 🔐🪪**Fourth Capstone Project:** [Cybersecurity Threat Classification](https://github.com/SanthoshKumarS13/Microsoft_cybersecurity_Threat_Classification)
 
-- - 🔐🪪**Fifth Project:** [TransArt FussionMind - Multimodel](https://github.com/SanthoshKumarS13/AI-FusionMind_Multimodel)
+- 🔐🪪**Fifth Project:** [TransArt FussionMind - Multimodel](https://github.com/SanthoshKumarS13/AI-FusionMind_Multimodel)
 
 - 🌱 **Personal Projects:** Heart Disease Prediction, Student Performance EDA, Online Shoppers Classification and Clustering, Wine Quality, Movie Dataset Cleaning
   
