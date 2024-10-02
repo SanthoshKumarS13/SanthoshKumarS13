@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhosh Kumar S</h1>
-<h3 align="center">A passionate data scientist with expertise in data analysis, machine learning, and statistical modeling. Proficient in Python, SQL, and Power BI, with hands-on experience in developing prediction models, classification systems,LLM,Hugging face spaces,Aws,Transformer and deploying them for real-world applications. Additionally, I have 2 years of experience in the electrical domain.</h3>
+<h3 align="center">A passionate data scientist with expertise in data analysis, machine learning, and statistical modeling. Proficient in Python, SQL, and Power BI, with hands-on experience in developing prediction models, classification systems,LLM,Hugging face spaces,Aws,Transformer and deploying them for real-world applications.</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50">
@@ -36,7 +36,7 @@
   <li>Programming & Database Management: Python Programming, SQL, Web Scraping (Selenium, Python)</li>
   <li>Data Analysis & Visualization : Data Cleaning & Preprocessing,EDA(Hypothesis Testing),Data
  Visualization (Power BI), Seaborn,Matplotlib</li>
-  <li>Tools & Frameworks: Streamlit, MySQL, Pandas,Scikit-learn,LLM
+  <li>Tools & Frameworks: Streamlit, MySQL, Pandas,Scikit-learn,LLM,TensorFlow,Keras
  Hugging Face,Aws</li>
 </ul>
 
