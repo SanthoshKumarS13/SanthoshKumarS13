@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data scientist with expertise in data analysis, machine learning, and statistical modeling. Proficient in Python, SQL, and Power BI, with hands-on experience in developing prediction models, classification systems,LLM,Hugging face spaces,Aws,Transformer and deploying them for real-world applications.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250">
 </p>
 
 - 🛄💼 **My portfolio Website** [Portfolio](https://santhoshportfolio.wixsite.com/portfolio)
