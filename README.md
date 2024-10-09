@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhosh Kumar S</h1>
-<h3 align="center">A passionate data scientist with expertise in data analysis, machine learning, and statistical modeling. Proficient in Python, SQL, and Power BI, with hands-on experience in developing prediction models, classification systems,LLM,Hugging face spaces,Aws,Transformer and deploying them for real-world applications.</h3>
+<h3 align="center">Data Science professional with expertise in machine learning, NLP, and deep learning. Skilled in feature engineering, EDA, and data analysis using Python, Pandas, Numpy, and SQL. Experienced in deploying models on Hugging Face and working with Transformer models and LLMs. Adept at solving complex data challenges and optimizing model performance.</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="450">
