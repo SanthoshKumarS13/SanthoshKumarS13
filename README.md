@@ -21,7 +21,7 @@
   
 - 📫 **How to reach me:** **santhoshkumareee2000@gmail.com**
 
-- 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1ZtI96xwpOg2Dpjwwk7Sp65IVTvC8hPzb/view?usp=drive_link)
+- 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1KFAhoy24DsnXtbZ62xrDslS3Uw8Q9Q9K/view?usp=sharing)
 
 - ⚡ **UnKnown fact:** I have 2 years of experience in the electrical domain
 
