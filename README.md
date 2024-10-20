@@ -17,9 +17,9 @@
 
 - 🤖🅰️ℹ️ **Fifth Project:** [TransArt FussionMind - Multimodel](https://github.com/SanthoshKumarS13/AI-FusionMind_Multimodel)
 
--  🍇😋**Sixth Project:** [AI_Diet_Planner](https://github.com/SanthoshKumarS13/AI-Diet-Recommender)
+-  🍇😋 **Sixth Project:** [AI_Diet_Planner](https://github.com/SanthoshKumarS13/AI-Diet-Recommender)
  
-- 🍇😋**Seventh Project:** [Dominos Sales Forecasting](https://github.com/SanthoshKumarS13/Dominos_Sales_Forecasting)
+- 💵🍕 **Seventh Project:** [Dominos Sales Forecasting](https://github.com/SanthoshKumarS13/Dominos_Sales_Forecasting)
 
 - 🌱 **Personal Projects:** Heart Disease Prediction, Student Performance EDA, Online Shoppers Classification and Clustering, Wine Quality, Movie Dataset Cleaning
   
